@@ -11,4 +11,17 @@ header{
     padding: 20px;
     text-align: center;
     font-family: Optima;
+    font-weight: bold;
+    background-color: #f2f2f2;
+    color: #4A4E69;
+}
+
+footer{
+    margin-top: 24px;
+    background-color: #f2f2f2;
+    color: #4A4E69;
+    padding: 20px;
+    text-align: center;
+    font-family: Optima;
+    font-weight: bold;
 }
