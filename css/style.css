@@ -1,11 +1,14 @@
 /*UNIVERSAL RESET*/
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Optima;
 }
 
 header{
     padding: 20px;
     text-align: center;
+    font-family: Optima;
 }
